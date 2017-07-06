@@ -1,7 +1,7 @@
 //KBC
 #include<stdio.h>
 main()
-{
+{// this is my first work
 	int prize=0;
 	char op1,op2,op3,op4,op5;
 	int A,B,C,D,E,M,L,Q5,p;  
